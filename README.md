@@ -1,4 +1,4 @@
-Active learning for sites of metabolism prediction
+SOLSTICE: Site-of-metabolism prediction with active learning
 ==============================
 
 Active learning for sites of metabolism prediction  
