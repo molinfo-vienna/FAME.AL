@@ -24,6 +24,10 @@ python3 src/features/cdpkit_calculate_fame_descriptors.py -i data/zaretzki_prepr
 - Code to run active learning with random forest classifier. 
     - **src/models/AL_for_SoM_pred.py** 
     - Examples: 
+```commandline
+# split data to get 5-fold
+python3 src/models/splits_for_AL.py
+```
 
 ```commandline
 # active learning in 5-fold cross validation
