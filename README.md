@@ -1,6 +1,6 @@
 Site-of-metabolism prediction with active learning
 ==============================
-published in [https://doi.org/10.1021/acs.jcim.3c01588](10.1021/acs.jcim.3c01588](https://doi.org/10.1021/acs.jcim.3c01588)
+published in [https://doi.org/10.1021/acs.jcim.3c01588](https://doi.org/10.1021/acs.jcim.3c01588)
 
 Active learning for sites of metabolism prediction demonstrated with [Zaretzki dataset](https://doi.org/10.1021/ci400518g). This data set was motified from the original data set to get the format of molecular structure (preprocessed using [RDKit](https://www.rdkit.org/) and [ChEMBL Structue Pipeline](https://github.com/chembl/ChEMBL_Structure_Pipeline)) with all annotated sites of metabolism in one .sdf file (data/zaretzki_preprocessed.sdf). 
 
